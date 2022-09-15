@@ -1,0 +1,45 @@
+body{
+    
+    font-family: 'Noto Sans', sans-serif;
+    }
+h1{
+    font-size: 40px;
+    }   
+h2{
+    size: 40px;
+    }
+
+.amin{
+    width: 40%;
+}
+
+.name{
+    color: orange;
+    }
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    }
+
+    .half-width img{
+        width: 100%;
+.top-banner{
+    
+    background-image: url("pexels/PngItem_5131515.png");
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    color: aliceblue;
+}
+a{
+    background-color: orange;
+}
